@@ -4,6 +4,8 @@ Here we can manage and track items that need to be addressed by the team.
 
 Contact Jeremy Fox if you need access to participate.
 
+## Note that this is just me playing around with GitHub as a potential task management tool. I have invited a few people to participate as a trial.
+
 <!--
 
 **Here are some ideas to get you started:**
